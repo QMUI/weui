@@ -1,4 +1,4 @@
-WeUI - tailor-made for WeChat web service
+WeUI for Work
 ====
 
 [![Build Status](https://travis-ci.org/Tencent/weui.svg?branch=master)](https://travis-ci.org/Tencent/weui)
@@ -6,17 +6,17 @@ WeUI - tailor-made for WeChat web service
 
 [中文版本](README_cn.md)
 
+> Forked version of [WeUI](https://github.com/tencent/weui), Details are [here](https://work.weixin.qq.com/api/doc#12146).
+
 ## Introduction
 
 WeUI is an WeChat-like UI framework officially designed by the WeChat Design Team, tailor-made for WeChat Web development, in order to improve and standardize the experience for WeChat users. Including components such as `button`、`cell`、`dialog`、 `progress`、 `toast`、`article`、`actionsheet`、`icon`.
 
 ## Mobile demo
 
-![https://weui.io](https://cloud.githubusercontent.com/assets/4652816/15662614/178efd46-2725-11e6-8952-09d7836e968d.png)
+![https://weui.io/work](http://p.qpic.cn/pic_wework/1533122241/61679e698985a17a14f8832ce0d844e871e11f8572cf15d2/0)
 
-[https://weui.io](https://weui.io)
-
-Legacy version: [https://weui.io/0.4.x](https://weui.io/0.4.x)
+[https://weui.io/work](https://weui.io/work)
 
 ## Documentations
 
